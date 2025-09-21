@@ -8,7 +8,8 @@ This script will automatically send the output of btop to all connected websocke
 ## Dependencies
 
 - [Node.js](https://nodejs.org/en)
-- [btop](https://github.com/aristocratos/btop)
+- [MSVC Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [btop](https://github.com/aristocratos/btop4win)
 
 ## Usage
 
